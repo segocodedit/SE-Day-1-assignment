@@ -10,15 +10,15 @@ The development of programming languages, The establishment of software engineer
 
 
 _**List and briefly explain the phases of the Software Development Life Cycle.**_
-- **1. Requirements gathering and analysis:** This phase involves gathering information about the software requirements from stakeholders, such as customers, end-users, and business analysts
-- **2. Design:** In this phase, the software design is created, which includes the overall architecture of the software, data structures, and interfaces. 
-- **3. Implementation or coding:** The design is then implemented in code, usually in several iterations, and this phase is also called as Development. This phase consists of Front end + Middleware + Back-end.
-- **4. Testing:** The software is thoroughly tested to ensure that it meets the requirements and works correctly.
-- **5. Deployment:** After successful testing, The software is deployed to a production environment and made available to end-users.
-- **6. Maintenance:** This phase includes ongoing support, bug fixes, and updates to the software.
+- **Requirements gathering and analysis:** This phase involves gathering information about the software requirements from stakeholders, such as customers, end-users, and business analysts
+- **Design:** In this phase, the software design is created, which includes the overall architecture of the software, data structures, and interfaces. 
+- **Implementation or coding:** The design is then implemented in code, usually in several iterations, and this phase is also called as Development. This phase consists of Front end + Middleware + Back-end.
+- **Testing:** The software is thoroughly tested to ensure that it meets the requirements and works correctly.
+- **Deployment:** After successful testing, The software is deployed to a production environment and made available to end-users.
+- **Maintenance:** This phase includes ongoing support, bug fixes, and updates to the software.
+
 
 _**Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.**_
-
 **Waterfall:** Sequential approach with distinct phases (e.g., requirements, design, implementation) flowing downwards like a waterfall.
 **Agile:** Iterative and incremental approach focused on flexibility, collaboration, and responding to change.
 
@@ -48,6 +48,7 @@ _**Describe the roles and responsibilities of a Software Developer, a Quality As
 - **Software Developer:** Responsible for writing code and implementing software solutions
 - **Quality Assurance Engineer:** Ensures software quality by designing and executing test plans.
 - **Project Manager:** Oversees the planning, execution, and delivery of software projects.
+
 
 _**Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.**_
 **IDEs** are software applications that provide developers with a comprehensive environment to write, test, and debug code. They integrate several tools into one platform, such as code editors, debuggers, compilers, and sometimes even version control support.
@@ -86,6 +87,7 @@ Prompt engineering is all about crafting questions or statements to get the best
 - Enables precise interactions
 - Helps overcome model limitations
 - Improves overall efficiency of human-AI collaboration
+
 
 _**Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.**_
 **Vague prompt** "Tell me about flowers"
