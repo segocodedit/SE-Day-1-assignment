@@ -23,8 +23,8 @@ _**List and briefly explain the phases of the Software Development Life Cycle.**
 
 _**Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.**_
 
-**Waterfall:** Sequential approach with distinct phases (e.g., requirements, design, implementation) flowing downwards like a waterfall.
-**Agile:** Iterative and incremental approach focused on flexibility, collaboration, and responding to change.
+- **Waterfall:** Sequential approach with distinct phases (requirements, design, implementation) flowing downwards like a waterfall.
+- **Agile:** Iterative and incremental approach focused on flexibility, collaboration, and responding to change.
 
 **Differnces**
 **Feedback**
